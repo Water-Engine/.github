@@ -24,7 +24,9 @@ This will build and run the engine with a default configuration.
 
 To play games or test the engine interactively:
 ```shell
-make gui
+git clone https://github.com/Water-Engine/water.git
+cd water
+make -j4 run
 ```
 
 You can specify which engine plays white or black:
