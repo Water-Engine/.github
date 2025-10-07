@@ -23,9 +23,9 @@ This will build and run the engine with a default configuration.
 # Getting started with the cactus framework
 
 Cactus provides following packages:
-- [`cactus-cli`] enables stress-testing of chess engines, offering multiple tournament formats and easy export of match results.
-- [`cactus-gui`] allows you to host PvP, Bot vs Player, or Bot vs Bot matches, and provides tools for analyzing games.
-- [`libcactus`] serves as the core library, powering both the CLI and GUI applications.  
+- `cactus-cli` enables stress-testing of chess engines, offering multiple tournament formats and easy export of match results.
+- `cactus-gui` allows you to host PvP, Bot vs Player, or Bot vs Bot matches, and provides tools for analyzing games.
+- `libcactus` serves as the core library, powering both the CLI and GUI applications.  
 
 for more info on the project check [README](https://github.com/Water-Engine/cactus/blob/main/README.md).
 
